@@ -1,9 +1,9 @@
 # BNB Chain Kickstart: Game Nexus
 
 
-Providing a package of programs to support developers building games on BNB Chain and strengthen the narrative that BNB Chain is the go to blockchain for web3 games.
+Providing a package of programs to support developers building games on BNB Chain.
 
-Game developers building on BNB Chain will be able to benefit from a BNB Chain Kickstart: Nexus. Which is designed to unleash the full potential of their creations and drive them towards unparalleled success in the web3 space. These offerings come with a range of benefits including generous discounts, prioritized schedules, and other exciting perks.
+Game developers building on BNB Chain can benefit from BNB Chain Kickstart: Game Nexus. This initaitive is designed to enable game devs to unleash the full potential of their creations and propel them to success in the Web3 space. These offerings come with a range of benefits including generous discounts, prioritized schedules, and other exciting perks.
 
 
 
